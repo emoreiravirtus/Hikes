@@ -1,4 +1,4 @@
-class HikesView {
+export default class HikesView {
     listElementId
     constructor(listElementId) {
         this.listElementId = listElementId;

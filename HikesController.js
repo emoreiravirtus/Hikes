@@ -1,5 +1,5 @@
 
-import HikeModel from './HikeModel.js';
+import HikeModel from './HikesModel.js';
 import HikesView from './HikesView.js';
 
 export default class HikesController {
